@@ -17,7 +17,7 @@ VALUES
 ('IT Specialist', 76000, 4),
 ('Accountant', 78000, 5),
 ('IT Manager', 68000, 1),
-('Software Engineer' 110000, 3);
+('Software Engineer', 110000, 3);
 
 
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
