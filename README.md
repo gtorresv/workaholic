@@ -29,6 +29,8 @@ The following screenshots are provided as samples of how the application works:
 
 ![Employee Sample 2](./assets/images/employee_sample.png)
 
+Employee Tracker Demo Video: https://watch.screencastify.com/v/YYjbcosE2hTQWRITK7xe
+
 ## Credits
 
 N/A
